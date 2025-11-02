@@ -5,9 +5,9 @@ powershell scoop 安装hugo
 scoop install hugo-extended
 
 创建hugo本地博客
-cd E:\OneDrive\blog
-hugo new site jinspr
-cd jinspr
+cd E:\Blog
+hugo new site NextOne 
+cd NextOne
 git init
 
 选主题
